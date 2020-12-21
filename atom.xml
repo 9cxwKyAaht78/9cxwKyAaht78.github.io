@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://9cxwKyAaht78.github.io</id>
+    <id>https://v2.idocs.monster</id>
     <title>使用说明</title>
-    <updated>2020-12-21T17:35:05.548Z</updated>
+    <updated>2020-12-21T17:39:23.026Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://9cxwKyAaht78.github.io"/>
-    <link rel="self" href="https://9cxwKyAaht78.github.io/atom.xml"/>
+    <link rel="alternate" href="https://v2.idocs.monster"/>
+    <link rel="self" href="https://v2.idocs.monster/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://9cxwKyAaht78.github.io/images/avatar.png</logo>
-    <icon>https://9cxwKyAaht78.github.io/favicon.ico</icon>
+    <logo>https://v2.idocs.monster/images/avatar.png</logo>
+    <icon>https://v2.idocs.monster/favicon.ico</icon>
     <rights>All rights reserved 2020, 使用说明</rights>
     <entry>
         <title type="html"><![CDATA[【置顶】手机+电脑+平板常规使用教程-点击查看]]></title>
-        <id>https://9cxwKyAaht78.github.io/all/</id>
-        <link href="https://9cxwKyAaht78.github.io/all/">
+        <id>https://v2.idocs.monster/all/</id>
+        <link href="https://v2.idocs.monster/all/">
         </link>
         <updated>2020-08-26T12:12:40.000Z</updated>
         <content type="html"><![CDATA[<ul>
@@ -27,8 +27,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[进阶使用 clash for Windows clashx教程]]></title>
-        <id>https://9cxwKyAaht78.github.io/clash/</id>
-        <link href="https://9cxwKyAaht78.github.io/clash/">
+        <id>https://v2.idocs.monster/clash/</id>
+        <link href="https://v2.idocs.monster/clash/">
         </link>
         <updated>2020-05-24T14:57:04.000Z</updated>
         <content type="html"><![CDATA[<p>推荐使用clash的理由，刷网页看视频更丝滑，开发者新勤快规则灵活可控制，使用上会更加稳定，可解决之前简易版软件的断流或者刷网页加载不顺畅的问题。<br>
@@ -43,20 +43,20 @@ Clash <a href="http://down.2byy.cn/cshClash.for.Windows.Setup.0.13.5.ia32.exe">W
 Clash <a href="http://down.2byy.cn/cshClash.for.Windows-0.13.5.dmg">苹果Mac版本</a></p>
 <h2 id="安装好clash后先熟悉一下主界面">安装好clash后，先熟悉一下主界面</h2>
 <p>控制面板主界面翻译参考<br>
-<img src="https://9cxwKyAaht78.github.io/post-images/1603111977182.png" alt="" loading="lazy"><br>
+<img src="https://v2.idocs.monster/post-images/1603111977182.png" alt="" loading="lazy"><br>
 右键菜单功能翻译参考<br>
-<img src="https://9cxwKyAaht78.github.io/post-images/1603109796927.png" alt="" loading="lazy"></p>
+<img src="https://v2.idocs.monster/post-images/1603109796927.png" alt="" loading="lazy"></p>
 <h1 id="2获取订阅链接">2.获取订阅链接</h1>
 <p>2.1 登陆客户中心-进入你购买的套餐，点击第三行【clash】复制按钮，可复制适合此软件使用的订阅链接，不要复制错！<br>
 <a href="https://portal.fastlu.com">点我进入客户中心地址</a><br>
-<img src="https://9cxwKyAaht78.github.io/post-images/1606909686782.png" alt="" loading="lazy"></p>
+<img src="https://v2.idocs.monster/post-images/1606909686782.png" alt="" loading="lazy"></p>
 <p>复制后的订阅链接 粘贴到profiles中，点击download。如下图位置<br>
-<img src="https://9cxwKyAaht78.github.io/post-images/1590501664305.png" alt="" loading="lazy"></p>
+<img src="https://v2.idocs.monster/post-images/1590501664305.png" alt="" loading="lazy"></p>
 <h1 id="3使用说明">3.使用说明</h1>
 <h2 id="切换线路或者代理规则">切换线路或者代理规则</h2>
-<figure data-type="image" tabindex="1"><img src="https://9cxwKyAaht78.github.io/post-images/1603112562040.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://v2.idocs.monster/post-images/1603112562040.png" alt="" loading="lazy"></figure>
 <h2 id="开关代理">开关代理</h2>
-<figure data-type="image" tabindex="2"><img src="https://9cxwKyAaht78.github.io/post-images/1603104327385.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://v2.idocs.monster/post-images/1603104327385.png" alt="" loading="lazy"></figure>
 <p>全局代理：表示所有网站都经过代理。<br>
 规则模式：表示规则内的网址进过代理。<br>
 直接模式：表示所有的网址都直接连接，不经过代理<br>
