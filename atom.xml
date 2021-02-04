@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://v2.idocs.monster</id>
     <title>使用说明</title>
-    <updated>2021-01-19T07:14:15.039Z</updated>
+    <updated>2021-02-04T12:32:48.631Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://v2.idocs.monster"/>
     <link rel="self" href="https://v2.idocs.monster/atom.xml"/>
@@ -26,7 +26,21 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[进阶使用 clash for Windows clashx教程]]></title>
+        <title type="html"><![CDATA[安卓手机使用教程]]></title>
+        <id>https://v2.idocs.monster/ng/</id>
+        <link href="https://v2.idocs.monster/ng/">
+        </link>
+        <updated>2020-06-11T12:56:20.000Z</updated>
+        <content type="html"><![CDATA[<p>下载软件<br>
+<a href="http://cdn.v2lu.com/downloads/v2rayNG_1.3.1.apk">http://cdn.v2lu.com/downloads/v2rayNG_1.3.1.apk</a></p>
+<p>教程中客户中心地址<br>
+<a href="https://portal.fastlu.com">https://portal.fastlu.com</a></p>
+<p>使用视频教程<br>
+<a href="http://cdn.v2lu.com/v/1597917190964.mp4">http://cdn.v2lu.com/v/1597917190964.mp4</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【高级版】进阶使用 clash for Windows clashx教程]]></title>
         <id>https://v2.idocs.monster/clash/</id>
         <link href="https://v2.idocs.monster/clash/">
         </link>
@@ -61,6 +75,148 @@ Clash <a href="http://down.2byy.cn/cshClash.for.Windows-0.13.5.dmg">苹果Mac版
 规则模式：表示规则内的网址进过代理。<br>
 直接模式：表示所有的网址都直接连接，不经过代理<br>
 脚本模式：日常用不到</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果手机/平板iOS系统教程]]></title>
+        <id>https://v2.idocs.monster/iOS/</id>
+        <link href="https://v2.idocs.monster/iOS/">
+        </link>
+        <updated>2020-03-25T14:38:36.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>iOS端使用教程流程简介</strong><br>
+1.下载APP Shadowrocket（简称小火箭）（因为logo是大家都简称其为小火箭）<br>
+2.将订阅地址配置app，并开启使用。<br>
+3.学会更新节点和切换规则</p>
+<h1 id="下载app的准备工作">下载App的准备工作</h1>
+<p><strong>如果已经有小火箭APP了可以跳过下载步骤</strong><br>
+下载app需要准备一个国外苹果ID，小火箭是第三方提供的付费应用。考虑到不是每人都有美区账号并且还经购买，第一次使用可以找客服免费提供一次性的共享账号，后期如需更新或安装新设备按次收费，每次收费5元。<br>
+壕们可直接付费60元可获得独享无限次数更新或下载账号。</p>
+<h2 id="11-退出自己的appstore-id">1.1 退出自己的AppStore ID.</h2>
+<figure data-type="image" tabindex="1"><img src="https://v2.idocs.monster/post-images/1606922662048.png" alt="" loading="lazy"></figure>
+<h1 id="12-登陆提前准备好的账号">1.2 登陆提前准备好的账号</h1>
+<p><strong>1.2.1 如何登陆App Store账号</strong><br>
+在账户页面滑动到最顶部，可以看到填账号和密码的地方。<br>
+也可以重新进入App Store首页点击右上角的头像进行登陆。</p>
+<p><a href="https://apps.apple.com/us/app/shadowrocket/id932747118">手机或iPad点我进入到小火箭APP页面</a><br>
+你也可以搜索 Shadowrocket 进行下载<br>
+具体如下图<br>
+<img src="https://v2.idocs.monster/post-images/1606929808392.png" alt="" loading="lazy"><br>
+<strong>提醒：下载完记得退出共享账号</strong><br>
+使用共享账号的下载好后记得按照退出App Store账号流程退出共享账号！避免数据泄露，和其他未知风险。</p>
+<h1 id="第二步配置订阅地址软件并开启使用">第二步，配置订阅地址软件并开启使用</h1>
+<p><strong><a href="http://portal.fastlu.com/">点我进入客户中心登陆页面</a></strong><br>
+<strong><a href="http://portal.fastlu.com/">点我进入客户中心登陆页面</a></strong></p>
+<p><img src="https://v2.idocs.monster/post-images/1606925979772.png" alt="" loading="lazy"><br>
+订阅地址复制第一行的ALL的订阅地址。复制好订阅地址后按照下方图片操作<br>
+<img src="https://v2.idocs.monster/post-images/1606928022538.png" alt="" loading="lazy"><br>
+到此已经配置完成，打开浏览器看是否能打开谷歌，如果能成功访问就表示已经成功了，若无法访问可联系客服求助。</p>
+<h1 id="更新线路和改变代理规则">更新线路和改变代理规则</h1>
+<p>当有新的线路或者节点有变化，需要更新订阅来同步节点信息。更新步骤如下。<br>
+<img src="https://v2.idocs.monster/post-images/1606928929255.png" alt="" loading="lazy"></p>
+<p>小火箭中有提供多种规则模式，在软件主页面点击全局路由，可以看到有配置、代理、直连、场景4个模式。推荐默认使用配置模式。<br>
+<img src="https://v2.idocs.monster/post-images/1606928357642.png" alt="" loading="lazy"></p>
+<ul>
+<li>配置模式是使用配置文件来管理哪些网址走代理和不走代理，软件内置的规则已经很好用了 推荐使用此模式</li>
+<li>代理模式为所有流量都经过代理服务器。</li>
+<li>直连模式为所有流量都不经过代理，直接使用本地网络。</li>
+<li>场景模式是更具你链接的不同wifi或者4G网络来自定义配置或者节点，具体自行深造。</li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MacOS使用教程/苹果电脑教程]]></title>
+        <id>https://v2.idocs.monster/MacOS/</id>
+        <link href="https://v2.idocs.monster/MacOS/">
+        </link>
+        <updated>2020-03-25T14:24:54.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<h1 id="安装前-注意事项">安装前-注意事项</h1>
+<ul>
+<li>1.时间是否正确！<br>
+看一下电脑的的时间是否和北京时间一致！非常重要</li>
+<li>2.电脑装了安全类软件，要完全退出，<br>
+如果无法退出，需要授权的弹窗要一定要全部允许，不然会出现各种错误！</li>
+<li>3.检查是否安装了同类软件或者插件<br>
+如果有同类软件建议关闭或者卸载，否则会冲突。</li>
+</ul>
+<p><strong>流程简介：</strong><br>
+1下载并安装好软件<br>
+2.登陆你的账号<br>
+3.选择线路，点击pac连接。完成！</p>
+<h1 id="第一步软件下载">第一步,软件下载</h1>
+<p><a href="http://down.2byy.cn/fastlu/fastlu_4.27.0_mac.dmg">点我下载</a></p>
+<p>下载好了双击打开安装包，拖到applications文件夹安装成功<br>
+<img src="https://v2.idocs.monster/post-images/1585146922256.png" alt="" loading="lazy"></p>
+<p>安装好后在应用程序文件夹中找到fastlu，按住control键点击打开，或者点击右键，在右键菜单中点击打开。<br>
+<img src="https://v2.idocs.monster/post-images/1585146974970.png" alt="" loading="lazy"><br>
+<img src="https://v2.idocs.monster/post-images/1598981437192.png" alt="" loading="lazy"><br>
+在弹出的对话框中，点击打开即可。（仅首次安装的时候需要这样，之后可以直接双击使用）<br>
+<img src="https://v2.idocs.monster/post-images/1598980999715.png" alt="" loading="lazy"></p>
+<h1 id="第二步登陆帐号并使">第二步，登陆帐号并使。</h1>
+<p>登陆你的账号和密码，登陆好后点击任意地区后的pac连接就可以使用了。<br>
+登陆前请确保你已经购买了套餐。<br>
+<img src="https://v2.idocs.monster/post-images/1585147048179.png" alt="" loading="lazy"></p>
+<h1 id="第三步连接使用">第三步，连接使用</h1>
+<p>登陆后点击任意地区后面的pac连接即可使用。<br>
+也可以点击全局连接，全局连接意思是所有网站走代理，包括国内。<br>
+如没有特殊需求，可以直接使用推荐的新加坡线路<br>
+点击pac连接，稍等5秒。在chrome谷歌浏览器访问谷歌看是否可以打开。能打开表示正常了。<br>
+<img src="https://v2.idocs.monster/post-images/1585147055154.png" alt="" loading="lazy"></p>
+<p><strong>趁热打铁，看看常见的问题吧</strong></p>
+<p>Q:谷歌可以打开，但是有个别网站打不看或者打开慢是怎么回事？<br>
+A:<strong>可以试试 全局连接</strong>。使用完记得切换回pac模式<br>
+pac连接是通过pac文件来控制哪些网站需要走代理，你可以切换全局连接试试，使用完记得切换为默认推荐推荐的pac模式。不然国内网站速度会变慢，而且流量消耗增加。</p>
+<p>Q:突然都不能用了<br>
+A:如果都不可以用，你要看看是不是流量用完了。<br>
+如果帐号节点配置有更新，可以点击刷新节点或者重新软化来刷新配置。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【简易版】Windows使用教程]]></title>
+        <id>https://v2.idocs.monster/Windows/</id>
+        <link href="https://v2.idocs.monster/Windows/">
+        </link>
+        <updated>2020-03-25T13:32:32.000Z</updated>
+        <content type="html"><![CDATA[<p>这个是Windows系统的简单安装教程！<br>
+优点就是登陆后点击连接即可使用，使用非常简单方便。<br>
+缺点是长时间使用会自动重新连接，会有1-2秒的断流，大部分使用场景使用是感觉不到的，当然你可以使用第三方开发的软件，首次安装和配置稍微复杂一些，具体使用可以点击下方教程链接<br>
+<a href="https://v2.idocs.monster/clash">进阶使用Windows clash使用教程</a></p>
+<h1 id="安装前-注意事项">安装前-注意事项</h1>
+<ul>
+<li>1.时间是否正确！<br>
+看一下电脑的的时间是否和北京时间一致！非常重要</li>
+<li>2.电脑装了安全类软件，要完全退出，<br>
+如果无法退出，需要授权的弹窗要一定要全部允许，不然会出现各种错误！</li>
+<li>3.检查是否安装了同类软件或者插件<br>
+如果有同类软件建议关闭或者卸载，否则会冲突。</li>
+</ul>
+<p><strong>流程简介：</strong><br>
+1下载并安装好软件<br>
+2.登陆你的账号<br>
+3.选择线路，点击pac连接。完成！</p>
+<h1 id="第一步软件下载">第一步,软件下载</h1>
+<p><a href="http://down.2byy.cn/fastlu_4.28.2_win.exe">点我下载软件</a></p>
+<p>双击一键安装，安装好后首次会自动运行，以后运行可以在桌面找到fastlu运行使用</p>
+<h1 id="第二步登陆帐号并使">第二步，登陆帐号并使。</h1>
+<p>登陆你的账号和密码，登陆好后点击任意地区后的pac连接就可以使用了。<br>
+登陆前请确保你已经购买了套餐。<br>
+<img src="https://v2.idocs.monster/post-images/1585150702970.png" alt="" loading="lazy"></p>
+<h1 id="第三步连接使用">第三步，连接使用</h1>
+<p>登陆后点击任意地区后面的pac连接即可使用。<br>
+如没有特殊需求，可以直接使用推荐线路<br>
+点击pac连接，稍等5秒。在chrome谷歌浏览器访问谷歌看是否可以打开。能打开表示正常了。<br>
+<img src="https://v2.idocs.monster/post-images/1585150713083.png" alt="" loading="lazy"></p>
+<p><strong>趁热打铁，看看常见的问题吧</strong></p>
+<p>Q:谷歌可以打开，但是有个别网站打不看或者打开慢是怎么回事？<br>
+A:<strong>可以试试 全局模式</strong>。使用完记得切换回pac模式<br>
+pac连接是通过pac文件来控制哪些网站需要走代理，你可以切换到全局模式，使用完记得切换为默认推荐推荐的pac模式。不然国内网站速度会变慢，而且流量消耗增加。</p>
+<p>Q:突然都不能用了<br>
+A:如果都不可以用，你要看看是不是流量用完了。<br>
+如果帐号节点配置有更新，可以点击刷新节点或者重新软化来刷新配置。</p>
+<h2 id="正确的退出方法">正确的退出方法</h2>
+<p><img src="https://v2.idocs.monster/post-images/1585295549595.png" alt="" loading="lazy"><br>
+先点击断开，再退出软件。直接退出软件有可能导致浏览器无法上网。</p>
+<figure data-type="image" tabindex="1"><img src="https://v2.idocs.monster/post-images/1585145925216.png" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
 </feed>
